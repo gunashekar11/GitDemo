@@ -1,0 +1,6 @@
+19:21:04.279 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x5ed7297b5c0f6290
+19:21:07.215 [main] INFO  academy.Navigate - Browser Opened!!
+19:21:07.923 [AsyncHttpClient-1-4] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+19:21:11.707 [main] INFO  academy.LoginCase - Browser Opened!!
+19:21:12.768 [main] INFO  academy.LoginCase - Page is navigated!!
+19:21:12.773 [AsyncHttpClient-1-7] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26

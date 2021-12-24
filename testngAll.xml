@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+<listeners>
+ <listener class-name="academy.Listeners"/>
+</listeners>
+
+  <test name="Navigate Test">
+    <classes>
+      <class name="academy.Navigate"/>
+    </classes>
+  </test> 
+  
+  <test name="Login Test">
+    <classes>
+      <class name="academy.LoginCase"/>
+    </classes>
+  </test>
+  
+</suite> 
+
+
+

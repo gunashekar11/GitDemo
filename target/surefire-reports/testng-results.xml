@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="11455" started-at="2021-12-13T12:59:15 IST" finished-at="2021-12-13T12:59:27 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11455" started-at="2021-12-13T12:59:15 IST" finished-at="2021-12-13T12:59:27 IST">
+      <class name="academy.Navigate">
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:academy.Navigate@2177849e]" name="initializeBrowser" is-config="true" duration-ms="3492" started-at="2021-12-13T12:59:20 IST" finished-at="2021-12-13T12:59:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="Navigate()[pri:0, instance:academy.Navigate@2177849e]" name="Navigate" duration-ms="698" started-at="2021-12-13T12:59:24 IST" finished-at="2021-12-13T12:59:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Navigate -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:academy.Navigate@2177849e]" name="tearDown" is-config="true" duration-ms="735" started-at="2021-12-13T12:59:26 IST" finished-at="2021-12-13T12:59:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- academy.Navigate -->
+      <class name="academy.LoginCase">
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:academy.LoginCase@5fa07e12]" name="initializeBrowser" is-config="true" duration-ms="4770" started-at="2021-12-13T12:59:15 IST" finished-at="2021-12-13T12:59:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="Navigate()[pri:0, instance:academy.LoginCase@5fa07e12]" name="Navigate" duration-ms="1008" started-at="2021-12-13T12:59:24 IST" finished-at="2021-12-13T12:59:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Navigate -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:academy.LoginCase@5fa07e12]" name="tearDown" is-config="true" duration-ms="693" started-at="2021-12-13T12:59:25 IST" finished-at="2021-12-13T12:59:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- academy.LoginCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
